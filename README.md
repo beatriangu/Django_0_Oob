@@ -7,7 +7,7 @@ Create a render.py program that will take a file  to read and replace with defin
 Create Intern and Coffee classes with their  main components and functionalities required and test it.
 
 # ex02  5 classes 1 cup.
-Managing a class implementation and funcionalitys....
+Managing a class implementation and funcionalities....
 DRY = "DON´T REPEAT YOURSELF!!"
 
 # ex03  Glorious coffee machine!
