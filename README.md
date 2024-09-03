@@ -1,9 +1,9 @@
-# Django_0_Oob
+# DJANGO Oob
 
  # ex00 Conquering SiliconValley
 Create a render.py program that will take a file  to read and replace with defined values in a settings.py and write the result in a file with the .html extension.
 
-# ex01 Innovating start-up looking for intern. 10 years exp. required.
+# ex01 Innovating start-up looking for intern....
 Create Intern and Coffee classes with their  main components and functionalities required and test it.
 
 # ex02  5 classes 1 cup.
