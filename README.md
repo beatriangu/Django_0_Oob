@@ -23,7 +23,9 @@ Extend the Elem class by creating specific subclasses for common HTML elements l
 Refine your HTML generation tools by creating a Page class that ensures HTML structure adheres to specific rules. The class will validate the HTML tree based on constraints like element types and their allowed children. It will also provide methods to print the HTML code with a doctype if the root is Html and to write this HTML to a file. Demonstrate the Page class functionality with various tests to ensure compliance and correctness.
 
 
-
+<p align="left">
+  <img src="https://github.com/beatriangu/Libft/blob/main/100.png?raw=true" alt="100.png" width="150"/>
+</p>
 
 
 
